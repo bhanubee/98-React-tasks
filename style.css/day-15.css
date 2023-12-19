@@ -1,0 +1,18 @@
+img{
+    border-radius: 150px;
+    border: 4px rgb(23, 5, 27) solid; 
+    outline-color: darkgoldenrod;
+  }
+ div.hello{
+   columns: 2;
+   background-color: aliceblue;
+   margin:auto;
+ }
+  p{
+    text-align: justify;
+  }
+  div#hi{
+   border-right: 5px black ridge;
+    background-color:cornflowerblue;
+  }
+  
