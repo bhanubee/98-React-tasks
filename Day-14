@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     body{
+        background-image: url(https://www.itl.cat/pngfile/big/291-2919128_yeele-5x4ft-photography-background-cooking-vegetables-cooking-background.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+       color: gainsboro;
+        background-size: cover;
+     } 
+ details h2,h3,h1{
+    color: coral;
+    background-color: darkslateblue;
+ }
+ div>ul{
+    color: darkseagreen;
+    background-color: darkred;
+ }
+div>p{
+    color:aqua;
+    background-color: darkgreen;
+    
+}
+h1{
+    background-color: rgb(37, 207, 156);
+    color: black;
+    text-shadow: 50px 10px 1px brown;
+}
+ summary{
+    text-decoration: underline double rgb(241, 19, 207);
+    text-indent: 100px;
+}
+
+
+
+
+    </style>
+</head>
+<body>
+    <details><summary><h1>Cooking blog-Task:-</h1></summary>
+        <h2><center><u>&#9733 Mushroom Birayani&#9733</u></center></h2>
+        <figure>
+            <a href="https://search.yahoo.com/search;_ylt=AwrjfbGajnBlrBUegP2JzbkF?p=preparetion+of+the+recipes+of+paniirmusroom+biriyani&type=E211US714G91803&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Apivot&stype=web"> 
+        <img src="https://farm1.staticflickr.com/357/19664687198_feee1b48f1_o.jpg" alt width="200"height="200px">
+        <img src="../Assets folder/pic of the paneer biryani.jpg" alt width="200px"height="200px">
+        <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-biryani-recipe.jpg" alt width="200px"height="200px">   </a>
+       <figcaption>Cut mushroom into 2 pieces and paneer into cubes. Cut onion lengthwise. If your curd is watery, drain the water completely using a muslin cloth. In a bowl, add thick curd, half of the chilli powder, coriander powder, biryani masala, ginger-garlic paste, little salt and mix well. Then add the mushroom and paneer cubes and mix well.</figcaption>
+
+    </figure>
+       <details><summary> <h3><u>List of Ingredients:-</u></h3></summary>
+       
+        <div>Prep Time : 15 mins
+
+            Cook Time : 30 mins 
+            Serves: 2
+            Recipe Category: Lunch-Biryani Recipes
+            Recipe Cuisine: Indian.
+
+              <b>Ingredients needed</b>
+              <ul>          
+              <li>Basmati rice – 1 cup</li>
+              <li>Onion – 3/4 cup (cut lengthwise)</li>
+              <li>Ginger garlic paste – 1 tsp</li>
+              <li>Green chilli -1 slit</li>
+              <li>Tomato puree – 1/2 cup</li>
+              <li>Button Mushrooms – 1 cup (200 grams)</li>
+              <li>Paneer cubes – 3/4 cup</li>
+              <li>Coriander leaves -fistful (chopped )</li>
+             <li> Mint leaves -fistful (chopped )</li>
+             <li> Thick curd – 1/4 cup</li>
+              <li>Salt to taste</li>
+           
+              <li>Spice powder</li>
+           
+              <li>Chilli powder – 3/4 -1 tsp (use less if store bought)</li>
+              <li>Turmeric powder – 1/4 tsp</li>
+              <li>Biryani masala powder – 1 tsp (available ready made)</li>
+              <li>Coriander powder – 1 tsp</li>
+           
+              <b>For the seasoning</b>
+           
+              <li>Oil/Ghee – 2 tbsp (or mix of both ghee and oil)</li>
+              <li>Cloves -2</li>
+              <li>Cinnamon – 1 inch piece</li>
+              <li>Cardamom -1</li>
+              <li>Bay leaf – 1 (optional)</li>
+           
+              <b>For cooking the rice</b>
+           
+              <li>Cloves 1</li>
+              <li>Cinnamon -1 inch piece</li>
+              <li>Ghee -1 tsp</li></ul></div></details>
+              <hr>
+            <details><summary><p><h2><u>Preparation of the Step by step process:-</u></h2></summary>
+            <div>
+           <p> Soak basmati rice for 20 minutes, drain the water and keep it aside.
+            Cut mushroom into 2 pieces and paneer into cubes.
+            Cut onion lengthwise.
+            If your curd is watery, drain the water completely using a muslin cloth. In a bowl, add thick curd, half of the chilli powder, coriander powder, biryani masala, ginger-garlic paste, little salt and mix well. Then add the mushroom and paneer cubes and mix well. Let it sit for 15-20 minutes.
+            Method.
+
+            Heat a tsp of ghee, add cloves, cinnamon and saute the rice for a few seconds. Then add 2 cups of water, little salt and cook the rice till 3/4 done. Drain the excess water (See picture below). Do not cook fully as we will be cooking again in the end. We do not want a mushy biryani.</p>
+            <img src="../Assets folder/MPB-1.jpg" alt width="150px"height="150px">
+            <p>Heat butter or oil in a kadai or pan, add the ingredients mentioned under seasoning, saute for a few seconds and add thinly sliced onions and slit green chillies. Saute until onions turn transparent.
+
+                Then add ginger garlic paste and saute for a few more seconds.
+                Now add the tomato puree, turmeric powder and the remaining spice powder (remember we added only half of it for marination) and cook till tomatoes become mushy.</p>
+            <img src="../Assets folder/MPB-2.jpg" alt width="150px"height="150px">
+            <p>See now the tomato is cooked nicely. At this stage add the marinated mushroom and paneer. Mix well.</p>
+            <img src="../Assets folder/MPB-3.jpg" alt width="150px"height="150px">
+            <p>Add the coriander, mint leaves, salt needed and cook until the mushrooms are three fourth cooked.(remember we have added salt while cooking rice, salt to the marination, so add salt accordingly)</p>
+            <img src="../Assets folder/MPB-4.jpg" alt width="150px"height="150px">
+            <p>Now we will do the layering-
+
+
+                In a pan with a lid, spread half of the gravy, then half of the rice on top. (1 st pic below)
+                
+                Then spread the remaining gravy. (2 nd pic)
+                
+                Then spread the rest of the rice on top and close it with a lid.(3 rd pic)</p>
+            <img src="../Assets folder/MPB-5.jpg" alt width="150px"height="150px">
+            <p>Keep it on very low flame for 5-6 minutes. Open and gently mix the biryani. Serve this aromatic biryani piping hot with raita or any side dish of your choice. I prepared my instant potato gravy as a side dish for this.</p>
+            <img src="../Assets folder/rice-pmb.jpg" alt width="150px"height="150px">
+            <p>Beginners, do not get intimidated by looking at the ingredients list and steps. Actually I have made it very easier for you all. If you do not have time, you can avoid the layering and prepare it in a rice cooker or pressure cooker.You can check out my easy cooker vegetable biryani or mushroom biryani or Meal Maker Biryani recipes.
+                If you found this post useful, I would really love it if you pin it or share it with your Facebook fans or Twitter followers or Google+ circles today. All it takes is a simple click on the “pin it” “like,” “share,” “tweet,” or Google+ buttons below the post. It will keep me motivated. Thank  you!</p></div>
+        </details>   
+</body>
+</html>
