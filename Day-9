@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <details><summary>15/11/2023 on Task-1</summary>
+   <h2>Document of the Meta-tags:-</h2>
+   <p>A meta tag in HTML is used to define data about your webpage or HTML document. With the help of a meta tag, one can define the description of the document, its author information when it was last updated; it uses to give detailed properties of the HTML document. Meta tag is defined within the <meta> HTML tag, which included in <head> part. It is most useful to the web designers to show the actual display part of the web page. The whole viewport control will be done by them using meta tags in HTML 5. The meta tag is referred to by most of the browsers for many useful features like refreshing pages, displaying web pages content, and web services used by them.</p>
+   <b>
+    < meta charset ="UTF-8"/><br>
+    < meta name="viewport" Content="width=device-width,initial-scale=1.0"/><br>
+    < meta name="Key words"Content="html,10kcoders,98R,webtechnologies"/><br>
+    < meta name="description"Content="Tutorial page with html Concepts"/><br>
+    < meta name="Author"Content="name,@email.com"/><br>
+   < meta http-eqiuv="Refresh"Content="5;URL='day1.html'"/><br>
+   </b>
+   <h4>List of Meta tag in HTML:-</h4>
+   <p>There are different types of Meta tags used in HTML;Let see one by one:</p>
+   <ol><li>< meta charset=”UTF-8″> This is a very basic meta tag used to define any kind of language.</li>
+   <li>< meta name=”description” content=”150 words”> It is used to define your content’s description up to 150 words.</li>
+   <li>< meta name=”copyright” content=”company name”> It is used to preserve all copyrights of defined company.</li>
+   <li>< meta name=”abstract” content=””> It is used to define abstract of specific webpage.</li>
+   <li>< meta name=”author” content=”name, email@hotmail.com”> It is used to define author of your HTML document.</li>
+
+   <li>< meta name=”url” content=”http://www.websiteaddrress.com”> It is used to define URL address of specific company defined in tag attribute.</li>
+    <li>< meta name=”rating” content=”General”> It is used to handle ratings which comes on our document.</li>
+    <li>< meta name=”subtitle” content=” subtitle using metatag”> If we want to define subtitle for our HTML documents then it made possible using this tag</li>
+     <li>< meta name=”refresh” content=”50″> It is used to refresh our webpage at its defined time spam.</li>
+     <li>< meta name=”Classification” content=”Business”> It is used to classify our document at defined entity value.</li>
+     <li>< meta name=”keywords” content=”your, tags”/> This tag is used to specify some keywords in Meta tag, so it’s made possible to search this content easily in our document.</li>
+     <li>< meta name=”summary” content=””> This tag is used to define summary of our document.</li>
+</ol>
+  </details> 
+  <details><summary>15/11/2023 on Task-2</summary>
+    <center> <h1>Chitrachedu.Bhanubee </h1></center>
+    <img src="../Assets folder/WhatsApp Image 2023-10-03 at 04.16.41_281815cf.jpg"weight="100"height="100">
+    <hr>
+    <details>
+     <summary>Click Here</summary>
+ 
+    <hr>
+    <h3><u>CAREER OBJECTIVE:</u></h3>
+    <p>I look forward to an experience that is both intellectually and
+      professionally valuable.  I hope to see myself grow as a professional
+       and as an individual.
+
+Working in an innovative and competitive world. I wish to
+contribute to the organization with hard work sincerity patience 
+and dedication and my capabilities by continuous learning.
+</p>
+<hr>
+<h3><u>Educational Qualifications</u></h3>
+<table>
+ <style>
+     table,tr,th,td{
+         border: 2px solid black;
+         border-collapse:separate}
+         </style>
+         <tr>
+             <th>Qualification</th>
+             <th>Institution</th>
+             <th>Year of passing</th>
+             <th>GPA</th>
+         </tr>
+         <tr>
+             <td>10th Board Examinations</td>
+             <td>Z.P.G.High school</td>
+             <td>2017</td>
+             <td>8.2</td>
+         </tr>
+         <tr>
+             <td>Intermediate Education</td>
+             <td>Mahatma College</td>
+             <td>2019</td>
+             <td>6.2</td>
+         </tr>
+         <tr>
+             <td>B.s.c(computers)</td>
+             <td>Sri Sai Degree college</td>
+             <td>2022</td>
+             <td>7.3</td>
+         </tr>
+ </table><pre>Overall My Studies percentage is:-
+ <meter value="8" min="0" max="10"></meter></pre>
+ <hr>
+ <details>
+     <summary>
+         Hobbies
+     </summary>
+    <pre>Mehandii Desings Arts
+         Helping of the My Parents work's
+         playing games
+    </pre>
+ </details>
+ <hr>
+ <details>
+     <summary>Technical Skills</summary>
+     <ul>HTML</ul>
+     <ul>CSS</ul>
+     <ul>ADEO</ul>
+ </details>
+ <hr>
+ <details>
+     <summary>Personal Details</summary>
+     <ul>Name->C.BHANUBEE</ul>
+     <ul>DOB->10/05/2001</ul>
+     Email->chitrachedusana@gmail.com
+ </details>
+ <hr>
+ <details>
+     <summary>Declaration</summary>
+     <ul>NAME:C.Bhanubee</ul>
+     <img src="../Assets folder/WhatsApp Image 2023-10-03 at 06.12.45_0bdf0f52.jpg"weight="100"height="100">
+     signature:
+ 
+ </details>
+
+
+
+</body>
+</html>
