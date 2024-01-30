@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../style.css/day-21.css">
+</head>
+<body>
+ <header>
+<img src="https://mir-s3-cdn-cf.behance.net/projects/original/cfb90f100899757.Y3JvcCw4MDgsNjMyLDAsMA.jpg" alt="logo" width="100px" height="60px">
+<img src="https://tse3.mm.bing.net/th?id=OIP.zk0rOVIB1Cq85TaEu2Uf2AHaK6&pid=Api&P=0&h=220" alt="icon"width="50px"height="60px">
+<a href="">Delivering to Village to Anywhere</a>
+<a href="">Update Location</a>
+<input type="search" name="search"placeholder="search products" />
+
+<a href="">Hello,sign in Accounts & Lists & Orders</a> 
+<img src="https://www.nicepng.com/png/detail/84-847295_grocery-shopping-cart-png-download-image-shopping-cart.png" alt="logo" width="50px"height="60px">
+</header>
+
+ <nav>
+<button><img class="class" src="https://clipground.com/images/navbar-icons-png-4.png" alt="icon"width="50px"height="40px">All</button>
+<a href="">Fresh</a>
+<a href="">Kisan miniTV</a>
+<a href="">Sell</a>
+<a href="">Best Sellers</a>
+<a href="">Today's Deals</a>
+<a href="">New Launches from Products,Veraities & more| Shop now</a>
+</nav>
+
+ <article>
+<video controls width="1000px" height="300px">
+<source src="../Assets folder/Annadata Title Song _ ETV Annadata.mp4">    
+</video>
+</article>
+
+ <section>
+    <div id="demo">
+        <div><a  id="id"href="">VEGETABLES SEEDS</a>
+     <div><img src="https://brownthumbmama.com/wp-content/uploads/2019/06/eggplant.png" alt="image"width="200px" height="150px"></div>
+     <div><img src="https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/homes/2020/04/08/1586314220682_tomato.jpg?width=922&height=&mode=crop&anchor=topcenter&quality=75?width=690&height=&mode=crop&quality=75" alt="image"width="200px" height="150px"></div>
+     <div><img src="https://i.ytimg.com/vi/ZUtBa892jQ0/maxresdefault.jpg" alt="image"width="200px" height="150px"></div>
+    <div><img src="https://tse2.mm.bing.net/th?id=OIP.xMGjSKWb4XvgEKPRoeGHZAHaEw&pid=Api&P=0&h=220" alt="image"width="200px" height="150px"></div>
+    </div>
+<div id="demo"><div>   <a  id="id"href="">FLOWER SEEDS</a>
+    <div><img src="https://gardenerspath.com/wp-content/uploads/2021/05/How-to-Buy-Roses-FB.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://www.homestratosphere.com/wp-content/uploads/2018/04/marigolds-oct192022.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://i.pinimg.com/originals/75/f2/33/75f233fceb24243c6e5443cd1aed35e0.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://www.stokeseeds.com/ca/media/catalog/product/cache/bac8d3471ceb310b87c2cb5743f9274d/6/3/630a_large_1.jpg" alt="image" width="200px" height="150px"></div>
+
+</div>
+
+
+
+<div id="demo"><div>    <a id="id" href="">GROWNUTS & Dalls</a>
+    <div><img src="https://i.ytimg.com/vi/KKWiknMOQCo/maxresdefault.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://img.thrfun.com/img/122/664/seeds_x1.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://www.agrifarming.in/wp-content/uploads/2019/10/Comp1-19.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://lh4.googleusercontent.com/rrF-7Sl7si9ME2uIAlrTZCLKgyzkXcyZZs10Dee3R2H2yZbc1Yc5nOcP7wHK7W-dUCzKl0BAOPvLRoTuwEX5OLOgHGpsnido0-cHDpSmFF_qtOIZFahaRpK3bzzlDDthlVtUprDc" alt="image" width="200px" height="150px"></div>
+
+</div>
+
+<div id="demo"><div> <a id="id" href="">HERBICIDES & FUNGICIDES & PLANT NUTRIION</a>
+    <div><img src="https://www.lawnsite.com/attachments/20160927_102847-jpeg.331344/" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://cdn.shopify.com/s/files/1/1419/2304/products/Photo21-4-20_20805pm_1024x1024@2x.jpg?v=1589346133" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://www.nationalpesticides.org/wp-content/uploads/2016/10/Herbicide-composition-1200x600.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://i5.walmartimages.com/asr/fc67dfec-0378-4987-afd9-b228a6839936_1.8488d9701e0ada9054d52a635077574e.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff" alt="image" width="200px" height="150px"></div>
+
+</div>
+
+<div id="demo"><div> <a id="id"href="">FARMING TOOLS</a>
+    <div><img src="https://netstorage-legit.akamaized.net/images/9f35fdffa85e3c27.jpg?imwidth=900" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://i.pinimg.com/originals/66/99/46/66994662c12bebbcd777f72c89955b8a.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://agrimachineryltd.com/wp-content/uploads/2021/04/row-weeder.jpg" alt="image" width="200px" height="150px"></div>
+    <div><img src="https://www.fieldking.com/blogs/wp-content/uploads/2021/04/Agriculture-Equipment.jpg" alt="image" width="200px" height="150px"></div>
+
+</div>
+ </section>
+ <footer>
+    <div><h4>Back to top</h4></div>
+<a href="">Get to Know Us</a>
+  <a href="">About Us</a>
+  <a href=""> Careers</a>
+  <a href="">Press Releases</a>
+
+  <a href="">Connect With Us</a>
+  <a href="">Facebook</a>
+  <a href="">Twitter</a>
+  <a href="">Instagram</a>
+
+  <a href="">Make Money With Us</a>
+  <a href="">sell on Kisan Mart</a>
+  <a href="">Sell Under Kisan Accelerator</a>
+  <a href="">Kisan Global Selling</a>
+</footer>
+
+</body>
+</html>
