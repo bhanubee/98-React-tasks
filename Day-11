@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: rgb(214, 138, 227);
+        }
+    </style>
+    
+</head>
+<body>
+   <h2> &#9733;"Simple Intro of the CSS (Cascading style sheet)":-&#9733</h2>
+    <p><b>CSS</b> stands for <b>Cascading Style Sheets.</b> It is a style sheet language which is used to describe the look and formatting of a document written in markup language. It provides an additional feature to <b>HTML.</b> It is generally used with <b>HTML </b>to change the style of web pages and user interfaces.</p><br>
+<hr>
+    <h2>&#9733;Document's of the Inline,Internal,And External :-&#9733</h2>
+
+    <h4>*INLINE(CSS):-</h4>
+    <p><strong>Cascading Style Sheets</strong> define the appearance of web pages containing <b>HTML elements (CSS).</b> It changes the web page’s colour palette, font size, and other elements. <b>Inline CSS</b> is a style sheet that includes a CSS property in the content of an element. The style attribute of an <b>HTML </b>tag is used to specify this kind of style.</p>
+     <pre>Syntax:-
+                < p style="color:aqua">some paragraphs< /p>.</pre><hr>
+    <h4>*INTERNAL(CSS):-</h4>
+     <p>The <strong>Internal CSS </strong>stylesheet is a set of styles created as part of an <b>HTML </b>document. <strong>Internal CSS</strong> is a method for defining CSS styles within an <b>HTML </b>document’s.</p>         
+      <pre>Syntax:-
+                < Style>
+                       p{
+                        color:blueviolet
+                       }
+
+                 < /Style> </pre><hr>
+    <h4>*EXTERNAL(CSS):-</h4>
+    <p><b>External CSS </b>is a form of <b>CSS </b>which is used to add styling to multiple <b>HTML</b> pages at a time. It helps to design the layout of many <strong>HTML</strong> web pages simultaneously. The external CSS is always saved with the <strong>.css</strong> extension, and through this file, we can change the complete style of our<strong> HTML</strong> web page.</p>
+     <pre>
+      syntax:-
+              < link rel="Stylesheet" href="./css/external.css/">
+
+     </pre>            
+</body>
+</html>
