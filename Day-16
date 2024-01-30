@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="../Assets folder/WhatsApp Image 2023-09-06 at 08.42.03_bc41ae27.jpg">
+    <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
+    @media screen and(max-width:768px)and(min-width:321px){
+        
+    <style>
+     
+    
+    body{
+        
+        background:no-repeat center blur(20px);
+        background-size: cover;
+        
+        border: black solid;
+        background-image:url(https://wallpaperaccess.com/full/5651989.jpg);
+     }
+    
+     a{
+        
+           text-decoration: none;
+           background-color: darkturquoise;
+           padding: 1px; 
+        display:inline-block;
+           border-radius: 10px;
+           border: groove; 
+           position: relative;
+           left: 20px;
+         
+     }
+p{
+    text-shadow: rgb(214, 19, 136);
+    font-family:Dancing Script;
+    text-align: justify ;
+    color:rgb(11, 184, 170);
+    display:inline-block;
+    position: relative;
+    width:500px;
+    height: 15px;
+    left:10px ;
+    
+   
+}
+#hi{
+    border:120px;
+    border-radius: 120px;
+    float:right;
+    position: absolute;
+    right: 250px;
+    top: 100px;
+}
+h2,h4{
+    color: rgb(3, 64, 186);
+    text-decoration: none;
+
+   
+}
+h3{
+    color: aquamarine;
+}
+    </style>
+    }
+</head>
+<body>
+    <!-- <h5>Nov 29 Task-1</h5> -->
+ <div>
+        <h2>Portfolio </h2>
+     <a href="#">Home</a>
+     <a href="#">About me</a>
+     <a href="#">Contact</a>
+     <a href="#">skills</a>
+     <a href="#">Experience</a><br>
+   
+
+         <h2><button><b>Hello!</b></button></h2>
+         <br><h3>I'M Bhanubee</h3>
+         <img id="hi" src="../Assets folder/WhatsApp Image 2023-09-06 at 08.42.03_98ac614a.jpg" alt="it's me"width="200px"height="200px">
+         <h4>Front-End Developer </h4>
+         <p>A Frontend Developer is responisble for implementing visual elements that users see abnd interact within a web
+             application.they are usually supported by back-end developers,who are responsible for server-side application logic
+             integration of the work frontend developers do.</p>
+<a href="https://call.whatsapp.com/video/EtektpNI64PDs9o7UuvWZq"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/512/Whatsapp-icon.png" alt="icon" width="40px"height="40px"></a>      
+ <a href="https://github.com/bhanubee/98-React-tasks "><img src="https://www.pngarts.com/files/8/Github-Logo-PNG-Picture.png" alt="icon" width="40px"height="40px"> </a>   
+ <a href="#"><img src="https://vectorified.com/images/linkedin-logo-icon-24.png" alt="icon" width="40px"height="40px"> </a>       
+
+
+</div>
+     
+</body>
+</html>
