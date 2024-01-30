@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="">
+</head>
+<body>
+  
+  <details><summary>Form-1 Task of Login:-</summary><br><br>
+    <form method="get">
+        <label for="email/phone no">E-mail/phone no:</label>
+     <input type="email/phonenumber" placeholder="email/phone number"/><br><br>
+     <label for="password" >Password</label>
+     <input type="password" placeholder="password"/><br><br>
+     <lable for="Firstname">Firstname:</able>
+        <input type="text"id="Firstname"placeholder="Firstname"/><br><br>
+        <lable for="lastname">Lastname:</able>
+            <input type="text"id="lastname:"placeholder="lastname"/><br><br>
+           <lable for="Age">Age:</lable>
+           <input type="number"id="Age"/><br><br><br>
+            <input type="submit"value="Login"/>
+            <input type="submit"value="singup" formaction="Day-6.html"/>
+           <p>After the "Login"button isclicked,the form-data will be sent to a page called"/data.php".</p>
+        </details>
+
+
+
+
+
+      <details><summary>Form-2 Task on 11/11/2023:-</summary>
+        <form method="get" action="Day-2.html" target="_blank">
+            <fieldset>
+            <legend>Personal Details</legend>
+             <lable for="sname">Firstname</lable><input type="text" placeholder="Firstname"/><br><br>
+             <lable for="sname">Lastname</lable><input type="text" placeholder="Lastname"/><br><br>
+             
+             <lable for="sname">Password</lable><input type="text" placeholder="password" name="1234"/><br><br>
+             <lable for="er">Gender:</lable><br>
+                            <lable for="Gender">Male:</lable><input type="radio" id="Male" name="gender"/>
+                            <lable for="Gender">Female</lable><input type="radio" id="Female" name="gender"/><br><br>
+                            <lable for="E-mail">E-mail:</lable><input type="email" id="E-mail:"/><br><br>
+                            <lable for="Dob">Date of Birth:</lable><input type="date" id="Date of Birth:"/><br><br>
+                            <lable for="data">Address</lable><input type="datalist ( row="200" col="200")" id="Address"/><br><br>
+                            <input type="submit" value="forgotpassword" formaction="Day-2.html" target="_blank"/>
+                            <button>Reset</button>
+            </fieldset>
+
+
+        </form ></details>
+
+
+
+
+        <details><summary><b>Registration Form of Gove:-</b></summary>
+  <form method="get" action="./Day-3.html">
+    <img src="../Assets folder/image of Ap(government).png " alt="image"width="100px" height="100px" >
+   <fieldset>
+ <legend><b> One Time Registration Form System</b></legend> 
+<a href="#">Home</a>
+<a href="#">Works</a>
+<a href="#">About</a>
+<a href="#">Projects</a>
+<a href="#">Service</a>
+<a href="#">helo</a><br><br><br>
+   </fieldset>
+   <fieldset><legend> <b>Aadhaar Details</b></legend>
+  <label for="@ UID Aadhaar no">@ Unique Identification Number UID/Aadhaar:-</label> <input type="number" placeholder="UID Aadhaar no" name="Aadhaar no"/><br><br>
+  <lable for="@ Name as on UID Aadhaar Card">@ Name as on UID Aadhaar Card:-</lable><input type="text" name="Aadhaar card details"/><br><br>
+  </fieldset>
+  <fieldset><legend><b>Basic Details</b></legend>
+  <label for="Personal Details:">Personal Details:</label><br><br>
+  <lable for="@name">@Name as in SSC or Equivalent Certificate:</lable><input type="text" name="name" pattern="[A-Za-z]{0,9}"/>
+  <label for="gender">@Gender:</label>
+  <input type="radio"  id="Male" name="Gender"/><label for="gname">Male</label>
+  <input type="radio" id="Female" name="Gender"/><label for="gname">Female</label><br><br>
+  <label for="age">Qualified Age starts:-</label><input type="number" name="number" pattern="[0-3]{2006,2009}"/>
+   <lable for="date">@Date of Birth:</lable><input type="date" name="date"/><br><br>
+  <label for="pbirth">@Place of Birth:</label>
+  <input list="skills1" placeholder="select district" name="skills1"/>
+  <datalist id="skills1"> 
+    <option value="Aanathapoor">Aanathapoor</option>
+      <option value="Kranool">Kranool</option>
+      <option value="Thadipatri">Thadipatri</option></datalist>
+
+  <input list="skills2" placeholder="select Village" name="skills2"/>
+<datalist id="skills2">
+
+  <option value="gooty">Gooty</option>
+    <option value="gunthacal">gunthacal</option>
+    <option value="Rajapuram">Rajapuram</option></datalist>
+
+  <label for="cname">@Community:</label><input list="skills3" placeholder="select Community" name="skills3"/>
+  <datalist id="skills3">
+
+    <option value="bc">BC/A</option>
+      <option value="bc/b">BC/B</option>
+      <option value="oc/a">OC/A</option>
+      <option value="se">SE</option>
+      <option value="st">ST</option>
+      <option value="bc/c">BC/C</option>
+    </datalist>
+  <br><br>
+  <label for="sname">Contact Details:</label><br><br>
+  <label for="sname">@Mobile Number:</label><input type="number" name="number" pattern="[0-9]{10}"/>
+  <label for="sname">@Alternate Number:</label><input type="number" name="number"pattern="[0-9]{10}"/>
+  <label for="sname">@Email Id:</label><input type="email" name="email"/><br><br>
+  <label for="simage">Upload:</label><br><br>
+  <label for="simage">@Image*</label><input type="file" name="file"/><input type="file" name="file"/>
+</fieldset>
+<label for="t&c"><b>Terms&Conditions:</b></label><br>
+<input type="checkbox" name="checkit"/><label for="sname">@Are you ok with ur details*</label><br><br>
+<input type="checkbox" name="checkit"/><label for="sname">mentioned details are correct</label><br><br>
+</fieldset>
+<input type="Reset"/><input type="Submit"  valu="Login" formaction="Day-1.html"/>
+<button><img src="../Assets folder/image of Ap(government).png" alt="icon" width="40px"height="40px"></button valu="submit" formaction="Day-6.html">
+</form>
+<h2>Please fill the details carefully</h2>
+<h2>All the best!</h2>
+</details>
+</body>
+</html>
