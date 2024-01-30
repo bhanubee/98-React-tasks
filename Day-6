@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            border: 2px solid black;
+
+        } 
+    </style>
+</head>
+<body>
+    <header><details><summary>Resume</summary>
+      <a href="./Day-3">
+           <img src="../Assets folder/WhatsApp Image 2023-10-03 at 04.16.41_281815cf.jpg" alt="Chitrachedu.Bhanubee" width="200px"height="200px"> </a>
+           <a href="mail to:chitrachedusana@gmail.com">chitrachedusana@gmail.com</a>
+           <a href="tel:8897930896">8897930896</a>
+           <hr></details></header>
+        <details>
+            <summary>Click Here</summary>
+        
+           <hr>
+           <h3><u>CAREER OBJECTIVE:</u></h3>
+           <p>I look forward to an experience that is both intellectually and
+             professionally valuable.  I hope to see myself grow as a professional
+              and as an individual.
+    
+    Working in an innovative and competitive world. I wish to
+     contribute to the organization with hard work sincerity patience 
+     and dedication and my capabilities by continuous learning.
+    </p>
+    <hr>
+    <h3><u>Educational Qualifications</u></h3>
+   <div><a href="https://search.yahoo.com/search;_ylt=Awrjak5OiHBlrFgfrASJzbkF?p=Z.P.G.H.girls+high+school+gooty+in+AP+state&type=E211US714G91803&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Apivot&stype=web">Z.P.G school Gooty</a></div>
+    <div><a href="https://images.search.yahoo.com/search/images;_ylt=Awr48w8VinBl3b4dwLKJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDc3doTzRyWFJRdTYzaDhROG54Rm00QQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzM3BHF1ZXJ5A21haGF0bWElMjBqdW5pb3IlMjBjb2xsZWdlJTIwaW4lMjBnb290eSUyMGluJTIwQVAEdF9zdG1wAzE3MDE4NzQyNjA-?p=mahatma+junior+college+in+gooty+in+AP&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211US714G91803#id=107&iurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D109843347017911&action=click">Mahatma Junior College</a></div>
+<div><a href="https://search.yahoo.com/search;_ylt=AwrO6tBNi3BllBwBXBeJzbkF?p=sri+krishana+devaraya+university+in+AP&type=E211US714G91803&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Apivot&stype=web">Srikrishna devaraya university(Sri Sai Degree College)</a></div>
+    <table>
+        <style>
+            table,tr,th,td{
+                border: 2px solid black;
+                border-collapse:separate}
+                </style>
+                <tr>
+                    <th>Qualification</th>
+                    <th>Institution</th>
+                    <th>Year of passing</th>
+                    <th>GPA</th>
+                </tr>
+                <tr>
+                    <td>10th Board Examinations</td>
+                    <td>Z.P.G.High school</td>
+                    <td>2017</td>
+                    <td>8.2</td>
+                </tr>
+                <tr>
+                    <td>Intermediate Education</td>
+                    <td>Mahatma College</td>
+                    <td>2019</td>
+                    <td>6.2</td>
+                </tr>
+                <tr>
+                    <td>B.s.c(computers)</td>
+                    <td>Sri Sai Degree college</td>
+                    <td>2022</td>
+                    <td>7.3</td>
+                </tr>
+        </table>
+        <hr>
+        <details>
+            <summary>
+                Hobbies
+            </summary> 
+            
+            <ol><li> Mehandii Desings Arts</li>
+                <img src="../Assets folder/mehandii.jpg" alt="desing" width="100px" height="100px">
+                <img src="../Assets folder/" alt="desing" width="100px" height="100px">
+            <li>Helping of the My Parents work's</li>
+            <img src="../Assets folder/ of parents works.jpg" alt="mehandii" width="100px" height="100px">
+            <img src="../Assets folder/children-helping-parents-with-household-chores-kitchen_625516-3404.webp" alt="mehandii" width="100px" height="100px">
+            <li> playing games</li>
+            <img src="../Assets folder/"alt width="100px" height="100px">
+            <img src="../Assets folder/" alt width="100px" height="100px">
+            </ol>
+    
+        </details>
+        <hr>
+        <details>
+            <summary>Technical Skills</summary>
+            <ol><li>HTML</li>
+                <img src="../Assets folder/ of html.jpg" alt="image" width="150px" height="150px">
+            <li>CSS</li>
+            <img src="../Assets folder/ image.jpg" alt="image" width="150px" height="150px">
+    
+                <li>ADEO</li></ol>
+    
+        </details>
+        <hr>
+        <details>
+            <summary>Personal Details</summary>
+            <ol><li>Name->C.BHANUBEE</li>
+            <li>DOB->10/05/2001</li></ol>
+            Email->chitrachedusana@gmail.com
+        </details>
+        <hr>
+        <details>
+            <summary>Declaration</summary>
+            <ol><li>NAME:C.Bhanubee</li></ol>
+            <img src="../Assets folder/WhatsApp Image 2023-10-03 at 06.12.45_0bdf0f52.jpg"weight="80px"height="80px">
+            signature:
+        </details>
+        </details><hr>
+        <details><summary>Cooking blog-Task</summary>
+        <h2><u>Paneer Mushroom Birayani</u></h2>
+        <figure>
+            <a href="https://search.yahoo.com/search;_ylt=AwrjfbGajnBlrBUegP2JzbkF?p=preparetion+of+the+recipes+of+paniirmusroom+biriyani&type=E211US714G91803&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Apivot&stype=web"> 
+        <img src="https://farm1.staticflickr.com/357/19664687198_feee1b48f1_o.jpg" alt width="200"height="200px">
+        <img src="../Assets folder/pic of the paneer biryani.jpg" alt width="200px"height="200px">
+        <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-biryani-recipe.jpg" alt width="200px"height="200px">   </a>
+       <figcaption>Cut mushroom into 2 pieces and paneer into cubes. Cut onion lengthwise. If your curd is watery, drain the water completely using a muslin cloth. In a bowl, add thick curd, half of the chilli powder, coriander powder, biryani masala, ginger-garlic paste, little salt and mix well. Then add the mushroom and paneer cubes and mix well.</figcaption>
+
+    </figure>
+       <details><summary> <h3><u>List of Ingredients:-</u></h3></summary>
+        <table>
+        <div>Prep Time : 15 mins
+
+            Cook Time : 30 mins 
+            Serves: 2
+            Recipe Category: Lunch-Biryani Recipes
+            Recipe Cuisine: Indian</div>
+
+              <b>Ingredients needed</b>
+              <ul>          
+              <li>Basmati rice – 1 cup</li>
+              <li>Onion – 3/4 cup (cut lengthwise)</li>
+              <li>Ginger garlic paste – 1 tsp</li>
+              <li>Green chilli -1 slit</li>
+              <li>Tomato puree – 1/2 cup</li>
+              <li>Button Mushrooms – 1 cup (200 grams)</li>
+              <li>Paneer cubes – 3/4 cup</li>
+              <li>Coriander leaves -fistful (chopped )</li>
+             <li> Mint leaves -fistful (chopped )</li>
+             <li> Thick curd – 1/4 cup</li>
+              <li>Salt to taste</li>
+           
+              <li>Spice powder</li>
+           
+              <li>Chilli powder – 3/4 -1 tsp (use less if store bought)</li>
+              <li>Turmeric powder – 1/4 tsp</li>
+              <li>Biryani masala powder – 1 tsp (available ready made)</li>
+              <li>Coriander powder – 1 tsp</li>
+           
+              <b>For the seasoning</b>
+           
+              <li>Oil/Ghee – 2 tbsp (or mix of both ghee and oil)</li>
+              <li>Cloves -2</li>
+              <li>Cinnamon – 1 inch piece</li>
+              <li>Cardamom -1</li>
+              <li>Bay leaf – 1 (optional)</li>
+           
+              <b>For cooking the rice</b>
+           
+              <li>Cloves 1</li>
+              <li>Cinnamon -1 inch piece</li>
+              <li>Ghee -1 tsp</li></ul></details>
+              </table><hr>
+            <details><summary><p><b><u>Preparation of the Step by step process:-</u></b></summary>
+
+            Soak basmati rice for 20 minutes, drain the water and keep it aside.
+            Cut mushroom into 2 pieces and paneer into cubes.
+            Cut onion lengthwise.
+            If your curd is watery, drain the water completely using a muslin cloth. In a bowl, add thick curd, half of the chilli powder, coriander powder, biryani masala, ginger-garlic paste, little salt and mix well. Then add the mushroom and paneer cubes and mix well. Let it sit for 15-20 minutes.
+            Method
+
+            Heat a tsp of ghee, add cloves, cinnamon and saute the rice for a few seconds. Then add 2 cups of water, little salt and cook the rice till 3/4 done. Drain the excess water (See picture below). Do not cook fully as we will be cooking again in the end. We do not want a mushy biryani.</p>
+            <img src="../Assets folder/MPB-1.jpg" alt width="150px"height="150px">
+            <p>Heat butter or oil in a kadai or pan, add the ingredients mentioned under seasoning, saute for a few seconds and add thinly sliced onions and slit green chillies. Saute until onions turn transparent.
+
+                Then add ginger garlic paste and saute for a few more seconds.
+                Now add the tomato puree, turmeric powder and the remaining spice powder (remember we added only half of it for marination) and cook till tomatoes become mushy.</p>
+            <img src="../Assets folder/MPB-2.jpg" alt width="150px"height="150px">
+            <p>See now the tomato is cooked nicely. At this stage add the marinated mushroom and paneer. Mix well.</p>
+            <img src="../Assets folder/MPB-3.jpg" alt width="150px"height="150px">
+            <p>Add the coriander, mint leaves, salt needed and cook until the mushrooms are three fourth cooked.(remember we have added salt while cooking rice, salt to the marination, so add salt accordingly)</p>
+            <img src="../Assets folder/MPB-4.jpg" alt width="150px"height="150px">
+            <p>Now we will do the layering-
+
+
+                In a pan with a lid, spread half of the gravy, then half of the rice on top. (1 st pic below)
+                
+                Then spread the remaining gravy. (2 nd pic)
+                
+                Then spread the rest of the rice on top and close it with a lid.(3 rd pic)</p>
+            <img src="../Assets folder/MPB-5.jpg" alt width="150px"height="150px">
+            <p>Keep it on very low flame for 5-6 minutes. Open and gently mix the biryani. Serve this aromatic biryani piping hot with raita or any side dish of your choice. I prepared my instant potato gravy as a side dish for this.</p>
+            <img src="../Assets folder/rice-pmb.jpg" alt width="150px"height="150px">
+            <p>Beginners, do not get intimidated by looking at the ingredients list and steps. Actually I have made it very easier for you all. If you do not have time, you can avoid the layering and prepare it in a rice cooker or pressure cooker.You can check out my easy cooker vegetable biryani or mushroom biryani or Meal Maker Biryani recipes.
+                If you found this post useful, I would really love it if you pin it or share it with your Facebook fans or Twitter followers or Google+ circles today. All it takes is a simple click on the “pin it” “like,” “share,” “tweet,” or Google+ buttons below the post. It will keep me motivated. Thank  you!</p>
+        </details>   
+                
+        </details>    
+        
+    
+    
+        </body>    
+            
+       
+    </html>
