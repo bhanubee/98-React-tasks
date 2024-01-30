@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul/il{
+           list-style-type: style type;
+        }
+    </style>
+</head>
+<body>
+    <details><summary>Task-1 To click here</summary>
+    <ul><dl>HTML</dl>
+        <dd>Hyper text markup language</dd>
+    <dl>CSS</dl>
+    <dd>Cascading Style Sheet</dd>
+    <dl>JS</dl>
+    <dd>Java Script</dd>
+</ul>
+<ul><dl>Block-level elements</dl>
+<dd>Block-level elements are used within the body of an HTML document and can contain inline elements, or other block-level elements.</dd>
+<dl> < p >< /p></dl>
+<dd>paragraphs tag</dd>
+<dl>< h1-h6 >< /h1-h6></dl>
+<dd>Heading tag's</dd>
+<dl>< div>< /div></dl>
+<dd>div is a nothing to else</dd>
+    <dl>< ul>< /ul></dl>
+    <dd>unorder list</dd>
+    <dl>< ol> < /ol></dl>
+    <dd>order list</dd>
+    <dl>< li>< /li></dl>
+    <dd>list</dd>
+    <dl>< header>< /header></dl>
+    <dd>Header bar of the webpage</dd>
+    <dl>< nav>< /nav></dl>
+    <dd>Navobar of the webpage</dd>
+    <dl>< figcaption>< /figcaption></dl>
+    <dd>figcaption of the webpage</dd>
+    <dl>< section>< /section></dl>
+    <dd>section of the webpage</dd>
+
+
+</ul>  
+    </details>
+    <details>
+        <summary>Task-2,Day-3</summary>
+       
+        <h1>Blog of the Sports</h1>
+        <aside><img src="../Assets folder/khabhadii.jpeg" alt width="150px" height="150px"></aside>
+         <h2>Sport of Kabaddi in "Sivangii game"</h2>
+        <p>Kabaddi is a contact team sport played between two teams of seven players, originating in ancient India.[2] The objective of the game is for a single player on offense, referred to as a "raider", to run into the opposing team's half of the court, touch out as many of their players and return to their own half of the court, all without being tackled by the defenders in 30 seconds. Points are scored for each player tagged by the raider, while the opposing team earns a point for stopping the raider. Players are taken out of the game if they are touched or tackled, but are brought back in for each point scored by their team from a tag or a tackle.</p>
+    </details>
+    <details>
+        <summary>Task-3,Day-3</summary>
+       
+        <h1>Blog of the Cooking"dishes"</h1>
+        <img src="../Assets folder/NorthIndian-Lunch-Menu1_Final2.jpg" alt width="150px" height="150px">
+         <h2>"Rice dal curry foodies"</h2>
+        <p>Dal Chawal is a basic meal of a simple lentil curry, and basmati rice made with simple ingredients and pantry staples. This simple and easy dal recipe will become your go-to weeknight meal!
+
+            Dal is the one dish that most regions in Southeast Asia (India, Pakistan, Bangladesh), are familiar with.
+            
+            Each region, each community might make it differently, but cooking lentils in a curry or soup is definitely one dish you’ll find is a staple dish, consistent across the regions.</p>
+    </details>
+    <details>
+        <summary>Task-4,Day-3</summary>
+       
+        <h1>Blog of the "Music"</h1>
+<img src="../Assets folder/Music-Blogs.jpg" alt width="150px" height="150px">
+         <h2>"Music is a good "</h2>
+         <p><b>A music blog is a simple concept! </b>The creator of the blog will discuss, review, and post music. Music blogs are often strongly opinionated, giving subjective takes on artists, albums, songs, and genres. Music blogs can take different approaches, they all revolve around the discussion of music, whether current or old.</p>
+        <p><b>Music therapy</b> mental health sessions are generally conducted by a board-certified music therapist and can be done either one-on-one or in groups. Depending on each person’s needs, music therapy can be used in tandem with other treatments when necessary. A music therapist works with people from many walks of life with various <b>neurodiversities</b>.</p>
+    </details>
+</body>
+</html>
