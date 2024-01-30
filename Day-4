@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+   <strong>Docuent of the  HTML,Semantic AND Non-Semantic elements.Block and inline elements.</strong>
+     <h3>Semantic-elemnts</h3>
+     <p>Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way.
+
+        Elements such as < header>, < footer> and < article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.</p>
+     <Strong>List of few semantic elements:-</Strong>
+     <P>The semantic elements added in HTML5 are:</P>
+     <ul><li>< header ></ header></li>
+     <li>< nav></ nav></li>
+     <li>< article></ article></li>
+     <li>< aside></ aside></li>
+     <li>< details></ details></li>
+     <li>< section></ section></li>
+     <li>< figcaption></ figcaption></li>
+     <li>< figure></ figure></li>
+     <li>< main></ main></li>
+     <li>< mark></ mark></li>
+     
+     <li>< summary></ summary></li>
+     <li>< footer></ footer></li></ul>
+       <hr>
+     <h3>Non-semantic elements</h3>
+     <p>Non-Semantic elements: Unlike, semantic elements they don’t have any meaning. They don’t tell anything about the content they contain. They can be used with different attributes to mark up semantics common to a group.</p>
+     <strong>Following is the list of some non-semantic elements:  </strong>
+     <ul><li>< div ></ div></li>
+     <li>< span></ span></li></ul>
+
+    <hr>
+     <h3>Block elements</h3>
+     <p>A block-level element is an HTML element that starts on a new line and takes up the full available width of its parent element’s horizontal space. This kind of element creates blocks of content (paragraphs, page divisions). The majority of HTML elements are block-level elements.</p>
+
+        <p>Block-level elements are used within the body of an HTML document and can contain inline elements, or other block-level elements.</p>
+     <strong>List of the following block-level elements:-</strong>
+<ul><li>< p >< /p></li>
+<li>< h1>< /h1>-< h6>< /h6></li>
+<li>< div>< /div></li>
+<li>< ul>< /ul></li>
+<li>< ol> < /ol></li>
+<li>< li>< /li></li>
+<li>< header>< /header></li>
+<li>< nav>< /nav></li>
+<li>< figcaption>< /figcaption></li>
+<li>< section>< /section></li></ul><hr>
+     <h3>Inline elements</h3>
+<p>Unlike block-level elements, inline elements do not start on a new line. They begin within a line and only take up as much width as it is necessary. Inline elements are included as a part of the main text.
+
+    Inline elements commonly contain other inline elements, or they can be empty.</p>
+    <ul><li>< a>< /a></li>
+    <li>< span>< /span></li>
+    <li>< b>< /b></li>
+    <li>< img></li>
+    <li>< br></li>
+    <li>< sup>< /sup></li>
+    <li>< sub>< /sub></li>
+    <li>< strong>< /strong></li>
+    <li>< abbr>< /abbr></li>
+    <li>< em>< /em></li></ul> 
+    <b>These are the documents of Html some of the elements are called semantic,non-semantic,block-level elements,inline elements. </b>    
+</body>
+</html>
