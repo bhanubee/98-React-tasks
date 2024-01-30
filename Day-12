@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       
+       h1{
+            text-align: center;
+            text-transform: uppercase;
+        }
+       h3{
+        text-align: center;
+        text-transform: capitalize;
+        line-height: 2;
+       }
+      b, del{ 
+           text-decoration-thickness: 3px;          
+           text-decoration: overline underline wavy red 1px;
+       }
+
+       p{
+        text-align: center;
+        text-transform: lowercase;
+        color: darkviolet;
+       }
+       h4{
+        text-align: center;
+       }
+       #demo{
+        text-align: center;
+        color: rgb(43, 46, 226);
+        text-shadow: 50px -3px 2px rgb(0, 255, 238);
+        text-decoration-line: underline;
+       }
+       h5{
+        text-decoration-style: dotted;
+        color: rgb(255, 0, 174);
+        text-decoration: underline double blueviolet 1px;
+       }
+
+    </style>
+</head>
+<body>
+   <details><summary>Task-1(24/11/2023)</summary>
+<h1>Table of contents</h1>
+<h3>chapter 1 -----------------------3</h3>
+<h3>chapter 2 -----------------------31</h3>
+<h3>chapter 3 -----------------------74</h3>
+<h3>chapter 4 -----------------------101</h3>
+<h3>chapter 5 -----------------------139</h3>
+<h3>chapter 6 -----------------------166</h3>
+<h3>chapter 7 -----------------------198</h3>
+<h3>chapter 8 -----------------------229</h3>
+<h3>chapter 9 -----------------------256</h3>
+<h3>chapter 10 -----------------------282</h3>
+<h3>chapter 11 -----------------------301</h3>
+<h3>chapter 12 -----------------------344</h3>
+<h3>chapter 13 -----------------------369</h3>
+<h3>chapter 14 -----------------------391</h3>
+<h3>chapter 15 -----------------------426</h3>
+<h3>chapter 16 -----------------------452</h3>
+<h3>chapter 17 -----------------------488</h3>
+</details>
+<details><summary>Task-2 (24/11/2023)</summary>
+
+<p>Fill in the following blanks to the stright words:-</p>
+<h4>then,these,two,time,than</h4>
+<h4><del>.........</del>gifts are for you.</h4>
+<h4>one,<b>.........</b>,two</h4>
+<h4>i am smaller<b>.........</b>you</h4>
+<h4>What<b>.........</b>is it</h4>
+<h4>eat dinner,<b>.........</b>desert.</h4>
+</details>
+<details>
+<summary>Task-3 (24/11/2023)</summary>
+<h4 id="demo">&#9733 On CSS Selectors&#9733</h4>
+<span>CSS Selectors are used to select the HTML elements you want to style.<br>
+We can devide CSS Slectors into diffierent catagiries.</span>
+<ol><li>Elements Selector</li>
+<li>Id selector</li>
+<li>Class selector</li></ol>
+<h5>1.Element Selector's:-</h5>
+<pre>
+   <strong> The element selector selects HTML elements you want to  style. 
+    here,all the < p> elements on the  page will be styled.
+    
+  syntax:-    
+       p{
+        color:red
+      }</strong>  
+</pre><hr>
+<h5>2.Id Selector's:-</h5>
+<pre>
+<strong> The id selector used the id attribute of an HTML element to select a specific element.
+     The id of an element is unique within a page,so the id select unique element.
+     To select an element with a specific id,write a (#)character,followed by the id of the element.
+     < div id="link">Chitrachedu bhanubee < /div>
+           
+    syntax:-
+        #link{
+               text-shadow:3px 0px 2px green
+             }
+
+        </strong>
+ </pre><hr>
+<h5>3.Class Selector's:-</h5>
+<pre>
+<strong>The Class selector selects HTML elements with a specific class attribute.
+    To select elements with a specific class,write a period(.)character,followed by the class name.
+    < div class="demo">class Selectors.< /div>
+    
+    syntax:-
+         .demo{
+            text-align:right;
+            color:blue;
+         }
+        </strong>
+</pre>
+</details>
+</body>
+</html>

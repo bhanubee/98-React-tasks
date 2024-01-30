@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../style.css/day-13.css">
+</head>
+<body>
+   
+   <details> <summary>Task-1 on 27/11/2023</summary>
+   <h2>-:Diffierence between Body Selector and Universal(*)Selector:-</h2>
+   <div><ol><li>Body Selector:-</li>
+        <p>if we add an background-image by element selector,background image will be displayed to the whole Wedpage this is called body selector.</p>
+        <li>Universal(*) Selector:-</li>
+         <p>if we add an background-image by element selector,background image will be displayed accoding to the inline and block level element this is called Universal Selector.</p>
+</ol></div></details><hr>
+<details><summary>Task-2 on 27/11/2023</summary>
+    <h2>Documentation of CSS Selectors:-</h2>
+<div><ol><li>Element selector:</li>
+    <p>In CSS, an element selector targets and styles HTML elements based on their tag names.</p>
+<pre><strong>
+    syntax:-   h1{
+        color:rgb(0,20,28)
+    } 
+</strong></pre>
+<li>Universal selector:</li>
+<p>In CSS, the universal selector(*)selects and style all elements on a webpage.</p>
+<pre><strong>
+    syntax:-    *{
+        background-color:green
+    }
+
+</strong></pre>
+<li>Group selects:</li>
+<p>In CSS, a group selector combines multple selectors to apply the same style rules to multiple elements.</p>
+<pre><strong>
+    syntax:-   h1,p,div{
+        text-align:center;
+        text-decoration-line:underline;
+        color:red;
+    }
+
+</strong></pre>
+<li>ID selector:</li>
+<p>In CSS,an Id selector style a specific HTML element(Uniqeu #)with a Uniqeu identifier assigned using the "id" attribute.</p>
+<pre><strong>
+    syntax:-
+    #link{
+           text-shadow:3px 0px 2px green
+         }
+
+</strong></pre>
+<li>Class selector:</li>
+<p>In CSS ,a class selector targets and styles HTML elements with a specified class(.) attribute.</p>
+<pre><strong>
+    syntax:-
+    .demo{
+       text-align:right;
+       color:blue;
+    }
+
+</strong></pre>
+<li>Element.class selector:</li>
+<p>In CSS, an Element.class selector is a give a particular class selector to the Element selector.</p>
+</ol>
+<pre><strong>
+   syntax:-    h3.class{
+                  color:yellow;
+                  line-height:2;
+                  text-indent:20px;
+                }
+</strong></pre></div></details><hr>
+<details id="hello"><summary>Task-1 on 28/11/2023</summary>
+<h2>&#9733 Commbinator Selectors in CSS &#9733</h2>
+<p>Commbinator Selector:<br>
+    A combinator is something that explains the relationship between the selectors. A CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator. </p>
+<ol><div>
+<li>Descendent selector:</li>
+<p>In CSS,a descendent selector selects an element that is a descendent of another specified element.</p>
+<pre><strong>
+   syntax:-   div p{
+                 background-color:orange;
+                 color:blue;
+            }
+
+</strong></pre>
+<li>Child selector:</li>
+<p>In CSS,a child selector targets and styles elements that are direct children of a specified parent element.</p>
+<pre><strong>
+syntax:-   div>h1{
+     text-transforms:capitalize;
+     text-decoration-style:wavy;
+    }
+</strong></pre>
+<li>Adjacent Sibling Selector:</li>
+<p>The adjacent sibling selector is used to select an element that is directly after another specific element. Sibling elements must have the same parent element, and "adjacent" means "immediately following"
+    is called 'Adjacent sibling selector'.</p>
+<pre><strong>
+ Syntax:-   div+ul{
+    background-color:black;
+    color:red;
+ }   
+</strong></pre>
+
+<li>General Sibling Selector:</li></ol></div>
+<p>The General Selector is specified by a tilde sign (~) in CSS and is a selector that helps in selecting the sibling elements of the same parent without them even being adjacent to each other.
+
+    In other words, unlike the Adjacent Sibling selector which selects only the elements that immediately follow a specific element, the General Sibling Selector selects the element that shares the same parent element regardless of them being adjacent or not. </p>
+<pre><strong>
+    Syntax:-  div~p{
+        color:brown;
+        background-color:light green;
+    }
+</strong></pre>
+</details>
+</body>
+</html>
