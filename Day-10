@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body><details><summary>Audio album's:-</summary>
+    <figure>
+    <img src="../Assets folder/7-Best-Telugu-Movies-of-Siddharth-5-560x295.jpg" alt="image" width="350px" height="350px" /><br>
+  <audio controls>
+   <source src="../Assets folder/Oye Video Songs _ I am Waiting for You Video Song _ Siddharth, Shamili _ Sri Balaji Video.mp3"/>
+    </audio><br>
+ <audio controls> 
+   <source src="../Assets folder/Oye Video Songs _ Oye Oye (Title Song) Video Song _ Siddharth, Shamili _ Sri Balaji Video.mp3"/>
+</audio><br>
+<audio controls >
+    <source src="../Assets folder/Oye Video Songs _ Anukoledenadu Video Song _ Siddharth, Shamili _ Sri Balaji Video.mp3"/> 
+</audio><br>
+</figure>
+<figure><img src="https://i.indiglamour.com/photogallery/telugu/movies/2009/nov20/Arya_2/wide/Arya_2_3091.jpg" alt="image"width="350px"height="350px"/>
+    <audio controls>
+        <source src="../Assets folder/Arya 2 Songs - Baby He Loves You - Allu Arjun, Kajal Aggarwal, Navdeep - Ganesh Videos.mp3"/>
+</audio><br>
+<audio controls>
+    <source src="../Assets folder/Egire Mabbulalona Video Song _ Happy-హ్యాపీ Telugu Movie Songs _ Allu Arjun _ Genelia _  TVNXT Music.mp3"/>
+</audio></figure></details>
+<details>
+<summary>Blog page of Videos:-</summary>
+<video controls width="250px"height="250px" poster="./dumy images/shinchan image.jpg">
+   <source src="../Assets folder/Shinchan 🐼 panda lunch full episode in telugu.mp4"/>
+</video>    
+<video controls width="250px"height="250px">
+   <source src="../Assets folder/Shinchan Telugu Episode 11 _ Shinchan New Telugu Shinchan _ Shinshan Videos.mp4"/>
+</video>
+
+    <video controls width="250px"height="250px">
+   <source src="../Assets folder/shinchan telugu new episode 🤦shinchan 🐕 dog get up change.mp4"/>
+</video>
+</details>
+<details><summary>Iframe video's</summary>
+<iframe  src="https://www.youtube.com/embed/ewZ_YWbIWXI" title="W3Schools HTML Tutorial 01 - Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen  width="400px" height="350px"> </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15234.929203739817!2d78.5774297!3d17.32846065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1702481333267!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</details>
+</body>
+</html>
