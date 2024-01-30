@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
+
+ 
+    <style>   
+
+
+      
+h1{
+   background-color: tomato;
+   color: white;
+   text-align: center;
+   padding: 50px;
+}
+h2{
+    text-align: right;
+    font-family:Dancing script;
+}
+#hello{
+    position: absolute;
+    top:250px;
+   left: 250px; 
+   border-radius: 300px;
+   
+}
+.sana{
+    background-color: crimson;
+    
+}
+div{
+   background-color: cornflowerblue;
+    border: solid;
+}
+
+</style>
+}
+</head>
+<body>
+    <div>
+    <h1>TOP TEN STUDY SKILLS</h1>
+    <h2>Find the Best study method for you |</h2>
+    <h2>Eat Well |</h2>
+    <h2>Excercise regularly |</h2>
+    <h2>Stay positive |</h2>
+    <h2>Tough sleep |</h2>
+    <h2>Take breaks |</h2>
+    <h2>Sei goals |</h2>
+    <h2>Find the best study time for you |</h2>
+    <h2>Exams can be good |</h2>
+    <h2>Sleep on it |</h2>
+    <img id="hello"src="../Assets folder/vector-a-girl-reading-book.jpg" alt="some" width="400px" height="400px">
+  <div class="sana"><h3> TSTPC</h3>
+  <h3>G<img src="https://tse2.mm.bing.net/th?id=OIP.U-z6odbBjFp32Ozl1HqmFQHaEl&pid=Api&P=0&h=220" alt="one"width="15px"height="20px">LKONDA</h3></div>
+</div>
+</body>
+</html>
